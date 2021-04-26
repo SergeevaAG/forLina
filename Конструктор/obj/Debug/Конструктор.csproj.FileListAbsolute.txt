@@ -1,0 +1,10 @@
+D:\Рабочий стол\констр\Конструктор\obj\Debug\Конструктор.csprojAssemblyReference.cache
+D:\Рабочий стол\констр\Конструктор\obj\Debug\Конструктор.Form1.resources
+D:\Рабочий стол\констр\Конструктор\obj\Debug\Конструктор.Properties.Resources.resources
+D:\Рабочий стол\констр\Конструктор\obj\Debug\Конструктор.csproj.GenerateResource.cache
+D:\Рабочий стол\констр\Конструктор\obj\Debug\Конструктор.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\констр\Конструктор\bin\Debug\Конструктор.exe.config
+D:\Рабочий стол\констр\Конструктор\bin\Debug\Конструктор.exe
+D:\Рабочий стол\констр\Конструктор\bin\Debug\Конструктор.pdb
+D:\Рабочий стол\констр\Конструктор\obj\Debug\Конструктор.exe
+D:\Рабочий стол\констр\Конструктор\obj\Debug\Конструктор.pdb

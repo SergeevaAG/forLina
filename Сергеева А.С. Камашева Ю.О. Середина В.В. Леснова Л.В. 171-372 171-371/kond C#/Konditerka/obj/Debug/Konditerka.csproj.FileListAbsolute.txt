@@ -1,0 +1,15 @@
+D:\kond C#\Konditerka\bin\Debug\Konditerka.exe.config
+D:\kond C#\Konditerka\bin\Debug\Konditerka.exe
+D:\kond C#\Konditerka\bin\Debug\Konditerka.pdb
+D:\kond C#\Konditerka\obj\Debug\Konditerka.csprojAssemblyReference.cache
+D:\kond C#\Konditerka\obj\Debug\Konditerka.autoriz_form.resources
+D:\kond C#\Konditerka\obj\Debug\Konditerka.customer_form.resources
+D:\kond C#\Konditerka\obj\Debug\Konditerka.director_form.resources
+D:\kond C#\Konditerka\obj\Debug\Konditerka.managClient_form.resources
+D:\kond C#\Konditerka\obj\Debug\Konditerka.managZakup_form.resources
+D:\kond C#\Konditerka\obj\Debug\Konditerka.master_form.resources
+D:\kond C#\Konditerka\obj\Debug\Konditerka.Properties.Resources.resources
+D:\kond C#\Konditerka\obj\Debug\Konditerka.csproj.GenerateResource.cache
+D:\kond C#\Konditerka\obj\Debug\Konditerka.exe
+D:\kond C#\Konditerka\obj\Debug\Konditerka.pdb
+D:\kond C#\Konditerka\obj\Debug\Konditerka.reg_form.resources

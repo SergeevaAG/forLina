@@ -1,0 +1,14 @@
+D:\Рабочий стол\Экзамен\AMONIC Airlines\bin\Debug\AMONIC Airlines.exe.config
+D:\Рабочий стол\Экзамен\AMONIC Airlines\bin\Debug\AMONIC Airlines.exe
+D:\Рабочий стол\Экзамен\AMONIC Airlines\bin\Debug\AMONIC Airlines.pdb
+D:\Рабочий стол\Экзамен\AMONIC Airlines\obj\Debug\AMONIC Airlines.csprojAssemblyReference.cache
+D:\Рабочий стол\Экзамен\AMONIC Airlines\obj\Debug\AMONIC_Airlines.admin_form.resources
+D:\Рабочий стол\Экзамен\AMONIC Airlines\obj\Debug\AMONIC_Airlines.autoriz_form.resources
+D:\Рабочий стол\Экзамен\AMONIC Airlines\obj\Debug\AMONIC_Airlines.Properties.Resources.resources
+D:\Рабочий стол\Экзамен\AMONIC Airlines\obj\Debug\AMONIC_Airlines.user_form.resources
+D:\Рабочий стол\Экзамен\AMONIC Airlines\obj\Debug\AMONIC Airlines.csproj.GenerateResource.cache
+D:\Рабочий стол\Экзамен\AMONIC Airlines\obj\Debug\AMONIC Airlines.exe
+D:\Рабочий стол\Экзамен\AMONIC Airlines\obj\Debug\AMONIC Airlines.pdb
+D:\Рабочий стол\Экзамен\AMONIC Airlines\obj\Debug\AMONIC_Airlines.add_form.resources
+D:\Рабочий стол\Экзамен\AMONIC Airlines\obj\Debug\AMONIC_Airlines.manag_form.resources
+D:\Рабочий стол\Экзамен\AMONIC Airlines\obj\Debug\AMONIC_Airlines.schedule_form.resources
